@@ -4,11 +4,14 @@ Kārlis Egle
 
 ## Izglītība
 
+2011-2020 Privātā pamatskola "Gaismas Tilts 97" <br />
+2020-Tagadne PIKC Rīgas Valsts Tehnikums <br />
 
 ## Sasniegumi
 
 
 ## Hobiji
+
 
 
 ## Pieredze programmēšanā
