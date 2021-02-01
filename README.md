@@ -4,11 +4,12 @@ Kārlis Egle
 
 ## Izglītība
 
-2011-2020 Privātā pamatskola "Gaismas Tilts 97" <br />
-2020-Tagadne PIKC Rīgas Valsts Tehnikums <br />
+-2011 - 2020 Privātā pamatskola "Gaismas Tilts 97" <br />
+-2020 - Tagadne PIKC Rīgas Valsts Tehnikums <br />
 
 ## Sasniegumi
 
+-6. Vieta Hippo Internacionālajā Angļu valodas Konkursā <br />
 
 ## Hobiji
 
@@ -18,4 +19,8 @@ Kārlis Egle
 
 -Izveidojis C++ Spēli, kuru spēlē terimnālī <br />
 -Izveidojis C# 3d tower defence spēli <br />
--Izveidojis C# 2d rpg
+-Izveidojis C# 2d rpg <br />
+-C++ Vidēji apgūts <br />
+-Python Vidēi apgūts <br />
+-Javascript Vidēji apgūts <br />
+-C# Vidēji apgūts <br />
