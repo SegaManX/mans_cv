@@ -13,7 +13,7 @@ Kārlis Egle
 
 ## Hobiji
 
-
+-Spēles programmēšana (https://pixcell.itch.io/txtrpg2)
 
 ## Pieredze programmēšanā
 
