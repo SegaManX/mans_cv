@@ -13,6 +13,6 @@ Kārlis Egle
 
 ## Pieredze programmēšanā
 
--Izveidojis C++ Spēli, kuru spēlē terimnālī
--Izveidojis C# 3d tower defence spēli
--Izveidojis C# 2d rpg
+-Izveidojis C++ Spēli, kuru spēlē terimnālī__
+-Izveidojis C# 3d tower defence spēli__
+-Izveidojis C# 2d rpg__
