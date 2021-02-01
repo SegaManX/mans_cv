@@ -21,6 +21,6 @@ Kārlis Egle
 -Izveidojis C# 3d tower defence spēli <br />
 -Izveidojis C# 2d rpg <br />
 -C++ Vidēji apgūts <br />
--Python Vidēi apgūts <br />
+-Python Vidēji apgūts <br />
 -Javascript Vidēji apgūts <br />
 -C# Vidēji apgūts <br />
